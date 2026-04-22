@@ -15,6 +15,6 @@ My current favorite project is the [Worst Macro Engine](https://github.com/Skula
 - I run on Thai Tea.
 
 ### Hobbies:
-- Souls-like games & Farming simulators.
-- Working out & actually touching grass.
-- Building random hardware and software. Might accidentally blow up my condo one day.
+- ⚔️ Souls-like games & Farming simulators.
+- 🏃‍♂️ Working out & actually touching grass.
+- 💥 Building random hardware and software. Might accidentally blow up my condo one day.
